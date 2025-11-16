@@ -114,7 +114,8 @@ All hyperparameters are centralized in `config.py`:
 #### Q-Learning
 [![MountainCar Q-Learning](results/mountain_car_qlearning_returns.png)](results/mountain_car_qlearning.mp4)
 
-**Video:** [MountainCar Q-Learning Performance](results/mountain_car_qlearning.mp4)
+**Video:** [MountainCar Q-Learning Performance](https://github.com/awaisnazir08/RL_assignment_02/blob/main/results/mountain_car_qlearning.mp4
+)
 
 #### SARSA
 [![MountainCar SARSA](results/mountain_car_sarsa_returns.png)](results/mountain_car_sarsa.mp4)
