@@ -1,13 +1,4 @@
-/lunar_lander_qlearning copy 2.mp4
-/lunar_lander_qlearning copy.mp4
-/lunar_lander_qlearning.gif
-/lunar_lander_qlearning0.gif
-/lunar_lander_qlearning0.mp4
-/lunar_lander_sarsa0.mp4
-/lunar_lander_sarsa_returns.png
-/training_curve.png
-*.png
-*.mp4
 *.gif
 *.pyc
 __pycache__/
+*.png
