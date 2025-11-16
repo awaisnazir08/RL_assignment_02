@@ -114,32 +114,31 @@ All hyperparameters are centralized in `config.py`:
 #### Q-Learning
 [![MountainCar Q-Learning](results/mountain_car_qlearning_returns.png)](results/mountain_car_qlearning.mp4)
 
-**Video:** [MountainCar Q-Learning Performance](https://github.com/awaisnazir08/RL_assignment_02/blob/main/results/mountain_car_qlearning.mp4
-)
+**Video:** ![MountainCar Q-Learning Performance](results/mountain_car_qlearning.gif)
 
 #### SARSA
-[![MountainCar SARSA](results/mountain_car_sarsa_returns.png)](results/mountain_car_sarsa.mp4)
+[![MountainCar SARSA](results/mountain_car_sarsa_returns.png)](results/mountain_car_sarsa.gif)
 
-**Video:** [MountainCar SARSA Performance](results/mountain_car_sarsa.mp4)
+**Video:** ![MountainCar SARSA Performance](results/mountain_car_sarsa.gif)
 
 ---
 
 ### LunarLander Environment
 
 #### Q-Learning
-[![LunarLander Q-Learning](results/lunar_lander_qlearning_returns.png)](results/lunar_lander_qlearning.mp4)
+[![LunarLander Q-Learning](results/lunar_lander_qlearning_returns.png)](results/lunar_lander_qlearning.gif)
 
-**Video:** [LunarLander Q-Learning Performance](results/lunar_lander_qlearning.mp4)
+**Video:** ![LunarLander Q-Learning Performance](results/lunar_lander_qlearning.gif)
 
 #### SARSA
-[![LunarLander SARSA](results/lunar_lander_sarsa_returns0.png)](results/lunar_lander_sarsa.mp4)
+[![LunarLander SARSA](results/lunar_lander_sarsa_returns0.png)](results/lunar_lander_sarsa.gif)
 
-**Video:** [LunarLander SARSA Performance](results/lunar_lander_sarsa.mp4)
+**Video:** ![LunarLander SARSA Performance](results/lunar_lander_sarsa.gif)
 
 #### SARSA(λ)
-[![LunarLander SARSA Lambda](results/sarsa_lambda_lunar_lander.png)](results/sarsa_lambda_lander.mp4)
+[![LunarLander SARSA Lambda](results/sarsa_lambda_lunar_lander.png)](results/sarsa_lambda_lander.gif)
 
-**Video:** [LunarLander SARSA(λ) Performance](results/sarsa_lambda_lander.mp4)
+**Video:** ![LunarLander SARSA(λ) Performance](results/sarsa_lambda_lander.gif)
 
 ## 🚀 Installation
 

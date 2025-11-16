@@ -1,4 +1,2 @@
-*.gif
 *.pyc
 __pycache__/
-*.png
